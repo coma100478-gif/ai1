@@ -23,7 +23,7 @@ st.dataframe(df)
 st.write("HTML 예제")
 st.markdown(
     """
-    <div style="color: blue; font-size: 20px;">
+    <div style="color: pink; font-size: 25px;">
         HTML을 활용한 예시 텍스트입니다.
     </div>
     """,
