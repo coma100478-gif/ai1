@@ -6,7 +6,7 @@ import pandas as pd
 
 # 1. 제목
 st.title("연수 안내 페이지")
-
+st.title("이곳은 진실관  연수 안내 페이지")
 # 2. 부제목
 st.subheader("이 페이지는 다양한 Streamlit 기능을 보여줍니다.")
 
